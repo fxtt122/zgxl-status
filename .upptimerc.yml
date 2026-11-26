@@ -1,7 +1,7 @@
 owner: fxtt122
 repo: zgxl-status
 sites:
-  - name: 无名剧场网页服务系统（测试）
+  - name: 无名剧场网页服务系统
     url: https://zgxl.us.kg
     method: GET
     timeout: 15000
