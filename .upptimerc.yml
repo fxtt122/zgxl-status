@@ -1,8 +1,8 @@
 owner: fxtt122
 repo: zgxl-status
 sites:
-  - name: 我的业务服务器
-    url: https://这里填你要监控的地址
+  - name: 无名剧场网页服务系统
+    url: https://zgxl.us.kg
     method: GET
     timeout: 15000
 status-website:
